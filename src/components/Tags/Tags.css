@@ -1,0 +1,24 @@
+.badge {
+  background-color: #ffffff;
+  color: #207a9b;
+  margin: 2px;
+  padding: 4px 8px;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #207a9b;
+  border-width: 1px;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  width: fit-content;
+}
+
+.badge-filter {
+  cursor: pointer;
+}
+
+.tag-selected {
+  background-color: #00ff00;
+  color: black;
+}
